@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-## Meet Lukman
+## Meet Lukman 😄
 
 - 🔭 A passionate learner.
-- 🌱 Intersted in JavsScript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 Intersted in JavsScript.
+- 👯 Frontend Developer.
+- 😄 Currently learning React/Gatsby
+- 🤔 Looking for His fisrt gig
+
+Nice to meet you. 😊
