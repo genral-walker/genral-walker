@@ -4,8 +4,8 @@
 
 - 🔭 A passionate learner.
 - 🌱 Intersted in JavsScript.
+- 😄 Currently working with and learning React.
 - 👯 Frontend Developer.
-- 😄 Currently learning React/Gatsby
 - 🤔 Looking for His fisrt gig
 
 Nice to meet you. 😊
