@@ -3,7 +3,7 @@
 ## Meet Lukman 😄
 
 - 🔭 A passionate learner.
-- 🌱 Intersted in JavsScript.
+- 🌱 Intersted in JavaScript.
 - 😄 Currently working with and learning React.
 - 👯 Frontend Developer.
 - 🤔 Looking for His fisrt gig
