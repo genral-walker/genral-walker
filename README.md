@@ -3,9 +3,9 @@
 ## Meet Lukman 😄
 
 - 🔭 A passionate learner.
-- 🌱 Intersted in JavaScript.
-- 😄 Currently working with and learning React.
-- 👯 Frontend Developer.
-- 🤔 Looking for His fisrt gig
+- 🌱 Interested in JavaScript.
+- 😄 Currently working with React and Firebase.
+- 👯 Web Developer.
+- 🤔 All Things code. 
 
 Nice to meet you. 😊
