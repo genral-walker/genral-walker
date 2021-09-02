@@ -4,7 +4,7 @@
 
 - 🔭 A passionate learner.
 - 🌱 Interested in JavaScript.
-- 😄 Currently working with React and Firebase.
+- 😄 Currently working with React and Firebase and a little bit of PHP.
 - 👯 Web Developer.
 - 🤔 All Things code. 
 
